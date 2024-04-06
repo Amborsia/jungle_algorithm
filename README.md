@@ -6,5 +6,6 @@
 3. 발표의 문제는 랜덤으로 추첨 예정
 
 #1주차 풀어야할 문제
-- 20551	Sort 마스터 배지훈의 후계자
-- 1790	수 이어쓰기2
+- 20551	Sort 마스터 배지훈의 후계자 (https://www.acmicpc.net/problem/20551)
+- 
+- 1790	수 이어쓰기2 (https://www.acmicpc.net/problem/1790)
