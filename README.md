@@ -7,5 +7,7 @@
 
 #1주차 풀어야할 문제
 - 20551	Sort 마스터 배지훈의 후계자 (https://www.acmicpc.net/problem/20551)
-- 
 - 1790	수 이어쓰기2 (https://www.acmicpc.net/problem/1790)
+
+#2주차 풀어야 할 문제
+- 16488 피카츄가 낸 어려운 문제 (https://www.acmicpc.net/problem/16488)
