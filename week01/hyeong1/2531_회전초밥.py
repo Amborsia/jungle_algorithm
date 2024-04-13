@@ -21,7 +21,18 @@ table = [int(sys.stdin.readline()) for _ in range(N)]
 # print(event)
 # print(len(set(event[-1])))
 
-# 투포인터, 슬라이딩 윈도우 띵킹..
+# 투포인터
 count = 0
+start = 0
+end = start + k
+while start < N:
+    check = table[start:end] + [c]
+    if end >= N:
+        end %= N
+        check += table[:end]
+    if count < len(set(check)):
+        count = len(set(check))
+    start += 1
+    end = start + k
 
 print(count)
