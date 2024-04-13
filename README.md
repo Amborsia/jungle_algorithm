@@ -6,6 +6,14 @@
 3. 조를 2개로 반반 나눠서 1인 1발표, 팀 그때마다 랜덤배정
 4. 발표의 문제는 랜덤으로 추첨 예정
 
+#3주차 풀어야 할 문제
+- 2749 피보나치 수3 (https://www.acmicpc.net/problem/2749)
+- 2477 참외밭 (https://www.acmicpc.net/problem/2477)
+- 8979 올림픽 (https://www.acmicpc.net/problem/8979)
+- 16926 배열 돌리기1 (https://www.acmicpc.net/problem/16926)
+- 14659 한조서열정리하고옴ㅋㅋ (https://www.acmicpc.net/problem/14659)
+- 24480 알고리즘 수업 - 깊이 우선탐색2(https://www.acmicpc.net/problem/24480)
+
 #2주차 풀어야 할 문제
 - 16488 피카츄가 낸 어려운 문제 (https://www.acmicpc.net/problem/16488)
 - 14935 FA (https://www.acmicpc.net/problem/14935) <- 브론즈문제
