@@ -6,6 +6,14 @@
 3. 조를 2개로 반반 나눠서 1인 1발표, 팀 그때마다 랜덤배정
 4. 발표의 문제는 랜덤으로 추첨 예정
 
+#4주차 풀어야 할 문제
+- 1449 올바른 배열 (https://www.acmicpc.net/problem/1449)
+- 19238 숨바꼭질 (https://www.acmicpc.net/problem/19238)
+- 14502 DNA (https://www.acmicpc.net/problem/14502)
+- 1755 연구소 (https://www.acmicpc.net/problem/1755)
+- 1516 게임개발 (https://www.acmicpc.net/problem/1516)
+- 1337 치즈 (https://www.acmicpc.net/problem/1337)
+
 #3주차 풀어야 할 문제
 - 2749 피보나치 수3 (https://www.acmicpc.net/problem/2749)
 - 2477 참외밭 (https://www.acmicpc.net/problem/2477)
