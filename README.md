@@ -6,6 +6,14 @@
 3. 조를 2개로 반반 나눠서 1인 1발표, 팀 그때마다 랜덤배정
 4. 발표의 문제는 랜덤으로 추첨 예정
 
+#5주차 풀어야 할 문제
+- 1002 터렛 (https://www.acmicpc.net/problem/1002)
+- 1189 컴백홈 (https://www.acmicpc.net/problem/1189)
+- 1246 온라인 판매 (https://www.acmicpc.net/problem/1246)
+- 16173 점프왕 쩰리 (Small) (https://www.acmicpc.net/problem/16173)
+- 20056 마법사 상어와 파이어볼 (https://www.acmicpc.net/problem/20056)
+- 20365 블로그2 (https://www.acmicpc.net/problem/20365)
+
 #4주차 풀어야 할 문제
 - 1449 수리공 항승 (https://www.acmicpc.net/problem/1449)
 - 19238 숨바꼭질 (https://www.acmicpc.net/problem/6118)
