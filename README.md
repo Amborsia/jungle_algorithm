@@ -6,6 +6,14 @@
 3. 조를 2개로 반반 나눠서 1인 1발표, 팀 그때마다 랜덤배정
 4. 발표의 문제는 랜덤으로 추첨 예정
 
+#6주차 풀어야 할 문제
+- 1058 친구 (https://www.acmicpc.net/problem/1058)
+- 9076 점수 집계 (https://www.acmicpc.net/problem/9076)
+- 10775 공항 (https://www.acmicpc.net/problem/10775)
+- 10799 쇠막대기 (https://www.acmicpc.net/problem/10799)
+- 25418 정수 a를 k로 만들기 (https://www.acmicpc.net/problem/25418)
+- 1747 소수&팰린드롬 (https://www.acmicpc.net/problem/1747)
+
 #5주차 풀어야 할 문제
 - 1002 터렛 (https://www.acmicpc.net/problem/1002)
 - 1189 컴백홈 (https://www.acmicpc.net/problem/1189)
