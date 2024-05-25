@@ -6,6 +6,14 @@
 3. 조를 2개로 반반 나눠서 1인 1발표, 팀 그때마다 랜덤배정
 4. 발표의 문제는 랜덤으로 추첨 예정
 
+#7주차 풀어야 할 문제
+- 1105 팔 (https://www.acmicpc.net/problem/1105)
+- 1969 DNA (https://www.acmicpc.net/problem/1969)
+- 9205 맥주 마시면서 걸어가기 (https://www.acmicpc.net/problem/9205)
+- 14284 간선 이어가기 (https://www.acmicpc.net/problem/14284)
+- 15486 퇴사2 (https://www.acmicpc.net/problem/15486)
+- 16120 PPAP (https://www.acmicpc.net/problem/16120)
+
 #6주차 풀어야 할 문제
 - 1058 친구 (https://www.acmicpc.net/problem/1058)
 - 9076 점수 집계 (https://www.acmicpc.net/problem/9076)
